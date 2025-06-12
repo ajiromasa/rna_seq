@@ -8,6 +8,6 @@ calculate gene counts
 split_ids.awk gene_count_matrix_sorted.csv > gene_count_matrix_sorted.tsv 
 countsum_by_symbol.awk gene_count_matrix_sorted.tsv > gene_count_matrix_sum.tsv
 
-calculate_TPM.R for TPM conversion
+calculate_TPM.R for TPM conversion\n
 split_ids.awk TPM_matrix.csv > TPM_matrix.tsv 
 countsum_by_symbol.awk TPM_matrix.tsv > TPM_matrix_sum.tsv
