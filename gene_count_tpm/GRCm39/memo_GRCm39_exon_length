@@ -1,8 +1,0 @@
-# 2025/4/30, ajiro
-
-1. GRCm39 gtf file contains #1, #2, #3, ..., and those were summarized to fit prepDE.py output.
-
-2. Following ENSMUSG are omitted since their exon length are 10 and not calculated by prepDE.py.
-ENSMUSG00000093876, 094957, 095549, 096396, 096884, 102532
-
-
